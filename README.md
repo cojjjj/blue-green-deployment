@@ -33,7 +33,7 @@ chmod +x deploy.sh
 
 ## Project URL
 
-https://github.com/cojjjjj/blue-green-deployment
+https://roadmap.sh/projects/blue-green-deployment
 
 ## Concepts Demonstrated
 
